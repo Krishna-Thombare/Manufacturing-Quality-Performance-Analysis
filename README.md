@@ -19,7 +19,7 @@ inspection data into meaningful business insights that can help identify quality
 
 ## 📊 Dataset
 
-- **Dataset Type:**  Synthetic Manufacturing Quality Inspection Data
+- **Dataset Type:**  Manufacturing Quality Inspection Data
 - **Initial Records:**  18,313
 - **Original Columns:**  29
 - **Data Period:**  October 2025 – September 2026
