@@ -9,7 +9,7 @@ inspection data into meaningful business insights that can help identify quality
 ## 🎯 Project Objectives
 
 - Analyze overall manufacturing inspection performance.
-- Measure defect rates across different plants, production lines, and shifts.
+- Measure defect rates across different plants, production lines and shifts.
 - Identify defect severity patterns and frequently occurring defects.
 - Evaluate supplier-wise and production-line quality performance.
 - Analyze root causes associated with manufacturing defects.
