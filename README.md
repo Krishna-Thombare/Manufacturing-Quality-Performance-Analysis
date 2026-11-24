@@ -42,7 +42,7 @@ inspection data into meaningful business insights that can help identify quality
 - Removed exact duplicate records.
 - Handled missing and inconsistent values.
 - Standardized categorical values and naming conventions.
-- Corrected invalid data formats and data types.
+- Indentified and corrected invalid data formats and data types.
 - Identified and handled invalid numerical values.
 - Validated business rules, such as defective units not exceeding sampled units.
 - Prepared the cleaned dataset for further analysis.
